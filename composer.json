@@ -1,0 +1,13 @@
+{
+    "name": "iextra/test",
+    "type": "bitrix-module",
+    "authors": [
+        {
+            "name": "iextra",
+            "email": "iextra.denis@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~2"
+    }
+}

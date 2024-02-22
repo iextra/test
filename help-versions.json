@@ -1,6 +1,5 @@
 [
-  {"version":"main","url":"/docs/user/1.0/","isCurrent":false},
-  {"version":"1.0","url":"/docs/user/1.0/","isCurrent":false},
-  {"version":"2.0","url":"/docs/user/2.0/","isCurrent":false},
-  {"version":"3.0","url":"/docs/user/3.0/","isCurrent":false}
+  {"version":"main","url":"/test/docs/user/1.0/","isCurrent":false},
+  {"version":"1.0","url":"/test/docs/user/1.0/","isCurrent":false},
+  {"version":"2.08","url":"/test/docs/user/2.08/","isCurrent":true},
 ]
